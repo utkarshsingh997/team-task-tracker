@@ -1,34 +1,65 @@
 TaskFlow — Team Task Manager
+
 A modern, responsive team task management dashboard with a polished UI, built for organizing projects, tracking tasks, and visualizing team progress.
+
 🔗 Live URL: YOUR_LIVE_URL_HERE
+
 📦 GitHub Repo: YOUR_GITHUB_REPO_URL_HERE
+
 🚀 Features
+
 Project Dashboard — Overview of tasks, progress tracking, and team activity
+
 Task Management — Create, organize, and track tasks with status updates
+
 Team Collaboration — Built for multi-user team workflows
+
 Responsive Design — Fully responsive across desktop, tablet, and mobile
+
 Dark Mode Ready — Theme-aware UI with next-themes support
+
 Accessible Components — 40+ accessible UI primitives via Radix UI
+
 Form Validation — Type-safe forms with React Hook Form + Zod
+
 Data Visualization — Charts and analytics with Recharts
+
 ⚙️ Tech Stack
+
 Table
+
 Layer	Technology
+
 Framework	React 19
+
 Language	TypeScript
+
 Build Tool	Vite 7
+
 Styling	Tailwind CSS 3.4 + shadcn/ui
+
 UI Primitives	Radix UI
+
 Icons	Lucide React
+
 Forms	React Hook Form + Zod
+
 Charts	Recharts
+
 Date Handling	date-fns
+
 Carousel	Embla Carousel
+
 Routing	React Router DOM
+
 Notifications	Sonner
+
 Themes	next-themes
+
 📦 Installation
+
 bash
+
 Copy
 git clone YOUR_GITHUB_REPO_URL_HERE
 cd taskflow
@@ -55,6 +86,7 @@ taskflow/
 │   ├── types/                 # TypeScript definitions
 │   └── components/ui/         # shadcn/ui components (40+)
 └── public/                    # Static assets
+
 🛠️ Available Scripts
 Table
 Command	Description
