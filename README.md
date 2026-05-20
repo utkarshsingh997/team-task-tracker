@@ -2,9 +2,9 @@ TaskFlow — Team Task Manager
 
 A modern, responsive team task management dashboard with a polished UI, built for organizing projects, tracking tasks, and visualizing team progress.
 
-🔗 Live URL: YOUR_LIVE_URL_HERE
+🔗 Live URL: https://team-task-tracker-production-fc3d.up.railway.app/
 
-📦 GitHub Repo: YOUR_GITHUB_REPO_URL_HERE
+📦 GitHub Repo: https://github.com/utkarshsingh997/team-task-tracker
 
 🚀 Features
 
